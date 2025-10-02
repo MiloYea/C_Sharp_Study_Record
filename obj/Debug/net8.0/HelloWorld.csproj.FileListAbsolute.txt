@@ -1,0 +1,14 @@
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\My Data\09_GitHub\csharp-learning\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
