@@ -1,2 +1,8 @@
-### 20251001 2052 
-This is my first the programs for c sharp
+
+### 2025-10-01
+- **Day01_HelloWorld**
+  - 使用 `dotnet new console` 创建了第一个控制台项目。
+  - 输出 "Hello, World!"，理解了控制台程序的基本结构。
+    
+下一步待学习
+  - 初步学习了 `Program.cs` 和 `.csproj` 文件的作用
