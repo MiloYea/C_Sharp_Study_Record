@@ -1,0 +1,15 @@
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\bin\Debug\net8.0\Day02_Variables.exe
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\bin\Debug\net8.0\Day02_Variables.deps.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\bin\Debug\net8.0\Day02_Variables.runtimeconfig.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\bin\Debug\net8.0\Day02_Variables.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\bin\Debug\net8.0\Day02_Variables.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.AssemblyInfoInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.AssemblyInfo.cs
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.sourcelink.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\refint\Day02_Variables.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\Day02_Variables.genruntimeconfig.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day02_Variables\obj\Debug\net8.0\ref\Day02_Variables.dll
