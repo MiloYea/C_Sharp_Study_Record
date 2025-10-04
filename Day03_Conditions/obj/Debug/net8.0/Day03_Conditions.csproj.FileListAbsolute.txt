@@ -1,0 +1,15 @@
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\bin\Debug\net8.0\Day03_Conditions.exe
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\bin\Debug\net8.0\Day03_Conditions.deps.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\bin\Debug\net8.0\Day03_Conditions.runtimeconfig.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\bin\Debug\net8.0\Day03_Conditions.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\bin\Debug\net8.0\Day03_Conditions.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.AssemblyInfoInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.AssemblyInfo.cs
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.sourcelink.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\refint\Day03_Conditions.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\Day03_Conditions.genruntimeconfig.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day03_Conditions\obj\Debug\net8.0\ref\Day03_Conditions.dll
