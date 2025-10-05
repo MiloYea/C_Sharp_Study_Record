@@ -1,0 +1,15 @@
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\bin\Debug\net8.0\Day04_Loops.exe
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\bin\Debug\net8.0\Day04_Loops.deps.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\bin\Debug\net8.0\Day04_Loops.runtimeconfig.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\bin\Debug\net8.0\Day04_Loops.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\bin\Debug\net8.0\Day04_Loops.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.AssemblyInfoInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.AssemblyInfo.cs
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.csproj.CoreCompileInputs.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.sourcelink.json
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\refint\Day04_Loops.dll
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.pdb
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\Day04_Loops.genruntimeconfig.cache
+D:\Github\C_Sharp\C_Sharp_Study_Record\Day04_Loops\obj\Debug\net8.0\ref\Day04_Loops.dll
